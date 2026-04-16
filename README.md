@@ -1,4 +1,3 @@
-
 # DSA Roadmap & Solutions
 
 This repository contains a structured roadmap to master Data Structures & Algorithms for technical interviews.
@@ -16,13 +15,13 @@ To crack top tech companies like Amazon with strong problem-solving skills.
 * Time & Space Complexity
 * Arrays & Strings
 
-### Phase 2: Core DS
+### Phase 2: Core Data Structures
 
 * Linked List
 * Stack & Queue
 * Hashing
 
-### Phase 3: Patterns
+### Phase 3: Problem Solving Patterns
 
 * Sliding Window
 * Two Pointers
@@ -33,7 +32,7 @@ To crack top tech companies like Amazon with strong problem-solving skills.
 * Trees
 * Backtracking
 
-### Phase 5: Advanced
+### Phase 5: Advanced Topics
 
 * Graphs
 * Dynamic Programming
@@ -46,19 +45,23 @@ To crack top tech companies like Amazon with strong problem-solving skills.
 * [ ] Arrays
 * [ ] Strings
 * [ ] Linked List
+* [ ] Stack & Queue
+* [ ] Recursion & Backtracking
+* [ ] Binary Search
 * [ ] Trees
 * [ ] Graphs
-* [ ] DP
+* [ ] Dynamic Programming
+* [ ] Greedy
 
 ---
 
-## 💻 Languages Used
+## Languages Used
 
-* C++ / Python / Java
+* C++
+* Python
 
 ---
 
-## 📅 Daily Goal
+## Daily Goal
 
-Solve 3–5 problems and push daily.
-
+Solve 3–5 problems and push daily commits.
